@@ -81,6 +81,10 @@ header {
 	justify-content: space-between;
 }
 
+.second-nav-top button {
+	padding: 12px;
+}
+
 .first-btn {
 	width: 15%;
 	text-align: center;
